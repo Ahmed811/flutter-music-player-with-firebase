@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">314983123080-tbvbtps0v89jaoch4gm3vppnq5vaf3m6.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">314983123080</string>
+    <string name="google_api_key" translatable="false">AIzaSyBwMdr_UK_K66NW_n9MxVqqtygRjWj8V8c</string>
+    <string name="google_app_id" translatable="false">1:314983123080:android:dd5cd651b45dff2b6bf73d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBwMdr_UK_K66NW_n9MxVqqtygRjWj8V8c</string>
+    <string name="google_storage_bucket" translatable="false">islamic-ringtoon.appspot.com</string>
+    <string name="project_id" translatable="false">islamic-ringtoon</string>
+</resources>

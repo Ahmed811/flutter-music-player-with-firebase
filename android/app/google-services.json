@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "314983123080",
+    "project_id": "islamic-ringtoon",
+    "storage_bucket": "islamic-ringtoon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314983123080:android:dd5cd651b45dff2b6bf73d",
+        "android_client_info": {
+          "package_name": "com.myislam.islamic_ringtoon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314983123080-tbvbtps0v89jaoch4gm3vppnq5vaf3m6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwMdr_UK_K66NW_n9MxVqqtygRjWj8V8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314983123080-tbvbtps0v89jaoch4gm3vppnq5vaf3m6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
